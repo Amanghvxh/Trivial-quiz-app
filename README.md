@@ -6,3 +6,8 @@ This app have some bugs like it does not correctly shows how many questions you 
 
 Sometimes when we click playAgain button and when the new questions loads some options can not be registered as an answer properly
 
+
+
+//Hosted version of the GAME=====>>>>
+
+https://trivialquiz.netlify.app/   
